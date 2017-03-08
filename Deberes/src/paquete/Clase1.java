@@ -32,7 +32,7 @@ public class Clase1 {
 	 */
 	public Clase1() {
 		int1=0;
-		string1="Pepe";
+		string1="manuel";
 		int2=0;
 		patata=null;
 	}
