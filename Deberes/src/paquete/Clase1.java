@@ -14,7 +14,7 @@ public class Clase1 {
  */
 	private int int1;
 	private String string1;
-	private int int2;//dioctrias
+	private int int2;//dioctriassssssssssss
 	private Clase2 patata;
 	/**
 	 * Constructor de cliente que recibe los parametros de edad y nombre respectivamente.
